@@ -30,5 +30,5 @@ It allows you to upload audio files, transcribe speech, and use advanced AI feat
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/assemblyai-springboot.git
-cd assemblyai-springboot
+git clone https://github.com/siyarampk/Assembly-AI.git
+cd Assembly-AI
